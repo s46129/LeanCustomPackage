@@ -1,15 +1,14 @@
 {
-  "name": "com.Rex.LeanCustomPackage",
+  "name": "com.rex.leancustompackage",
   "version": "1.0.0",
   "displayName": "LeanCustomPackage",
-  "description": "Lean Custom Package dependencies",
+  "description": "Lean Custom Package dependencies\n\u7df4\u7fd2\u53ca\u6e2c\u8a66",
   "unity": "2021.1",
   "unityRelease": "0b5",
   "documentationUrl": "https://example.com/https://github.com/s46129/LeanUnityCreatCustomPackage",
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
-  "dependencies": { },
- "keywords": [
+  "keywords": [
     "LeanCustomPackage",
     "keyword2",
     "keyword3"
@@ -18,5 +17,6 @@
     "name": "Rex",
     "email": "s46129@yahoo.com,tw",
     "url": "https://www.unity3d.com"
-  }
+  },
+  "type": "tool"
 }
