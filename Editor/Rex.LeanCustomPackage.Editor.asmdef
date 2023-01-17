@@ -1,0 +1,14 @@
+{
+  "name": "Rex.LeanCustomPackage.Editor",
+  "rootNamespace": "Rex.LeanCustomPackage.Editor",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
