@@ -1,6 +1,6 @@
 {
   "name": "com.rex.leancustompackage",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "displayName": "LeanCustomPackage",
   "description": "Lean Custom Package dependencies\n\u7df4\u7fd2\u53ca\u6e2c\u8a66",
   "unity": "2021.1",
